@@ -177,7 +177,7 @@
 
 *Орус тилиндеги альтернативалар: [Компьютерные сети от тех же авторов](https://files.ttuwiki.org/Computer_Networking_second_edition_rus.pdf).*
 
-### Маалыматтар базасы (Базы данных)
+### Маалыматтар базасы
 
 <img align="left" width="200" src="https://teachyourselfcs.com/redbook.jpg">
 
